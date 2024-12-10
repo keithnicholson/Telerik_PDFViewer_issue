@@ -15,6 +15,8 @@ namespace Telerik_PDFViewer_issue
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("telerikcontrolsicons.ttf", "TelerikControlsIcons");
+                    fonts.AddFont("telerikfontexamples.ttf", "TelerikFontExamples");
                 });
 
 #if DEBUG
